@@ -147,6 +147,6 @@ Although this is great for getting started, there are some limitations to using 
 * **Debugging**
     * The Preview app does not allow you to use many of NativeScript’s [debugging tools]({% slug cli-basics %}), such as NativeScript’s [integration with the Chrome DevTools]({% slug chrome-devtools %}).
 * **Unit Tests**
-    * The Preview app does not allow you to run use [NativeScript’s unit testing workflows]({% slug unit-testing %}).
+    * The Preview app does not allow you to run using [NativeScript’s unit testing workflows]({% slug unit-testing %}).
 * **Lazy Loading**
     * The Preview app cannot run NativeScript apps that use [Angular’s lazy loading technique]({% slug lazy-loading %}) for loading modules.
